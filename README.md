@@ -1,5 +1,6 @@
 ## Hi there, I'm Robert and I love to code!
 I am interested in HTML, CSS, SASS, Javascript, and React.
+I have been coding since the days of Netscape Navigator (I think I just dated myself) altohugh in those days the coding was limmited to HTML4.
 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any awsome app, or website
