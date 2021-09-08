@@ -5,9 +5,7 @@ CSS was great but had its limitations. Once the use of media queries, variables,
 
 Currently I am studying React. I have really come to like working with React. It seems to combine everything I have learned throughout the years. It has the JavaScript I have been learning, while the HTML knowledge I have transfers well to the JSX, although they are quite different. Also using styled-components makes use of my knowledge of CSS.
 
-
-- 💞️ I’m looking to collaborate on any awsome app, or website
-<!--- - 📫 How to reach me ... --->
+I am looking to collaborate on any cool projects.
 
 <!---
 robertWalker68501/robertWalker68501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
