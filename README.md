@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML CSS SASS Javascript React
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any awsome app, or website
-- 📫 How to reach me ...
+<!--- - 📫 How to reach me ... --->
 
 <!---
 robertWalker68501/robertWalker68501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
