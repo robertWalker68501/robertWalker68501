@@ -3,6 +3,8 @@ I have been coding since the days of Netscape Navigator (I think I just dated my
 
 CSS was great but had its limitations. Once the use of media queries, variables, and the like came along it got a whole lot better. Then came SASS bringing mixins, functions, nesting, and so many other toys it was now awesome. Unfortunately during this time I did not learn JavaScript. So now I am learning as much as I can about it. When building websites in the past I would use libraries like jQuery to implement JavaScript, or find a pre-built solution. Now though I can write the JavaScript I need for my projects.
 
+Currently I am studying React. I have really come to like working with React. It seems to combine everything I have learned throughout the years. It has the JavaScript I have been learning, while the HTML knowledge I have transfers well to the JSX, although they are quite different. Also using styled-components makes use of my knowledge of CSS.
+
 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any awsome app, or website
