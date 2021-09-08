@@ -1,7 +1,6 @@
-### Hi there, I'm Robert and I love to code!
+## Hi there, I'm Robert and I love to code!
+I am interested in HTML, CSS, SASS, Javascript, and React.
 
-- 👋 Hi, I’m @robertWalker68501
-- 👀 I’m interested in HTML CSS SASS Javascript React
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any awsome app, or website
 <!--- - 📫 How to reach me ... --->
